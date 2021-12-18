@@ -1,3 +1,7 @@
+This repo is a copy of https://github.com/RElbers/ada-conv-pytorch from an earlier point in time.
+
+
+
 AdaConv
 ==============================
 
