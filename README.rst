@@ -1,4 +1,5 @@
 This repo is a copy of https://github.com/RElbers/ada-conv-pytorch from an earlier point in time.
+Please look at the original repo for a more recent version, don't use this one.
 
 
 
